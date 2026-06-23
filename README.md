@@ -1,6 +1,6 @@
 Unity WebGL prototype for a study on player experience.
 
-Play here: https://github.com/Sadegh993/GAME-B
+Play here: https://sadegh993.github.io/GAME-B/
 
 Controls:
 
