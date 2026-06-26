@@ -15,6 +15,7 @@ B or X: Shoot
 Y: Melee 
 
 Keyboard:
+
 Arrow keys / WASD: Move
 
 Space: Jump
